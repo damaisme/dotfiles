@@ -1,0 +1,6 @@
+
+[Default Applications]
+x-scheme-handler/obsidian=obsidian.desktop
+application/x-extension-burp=install4j_1k2f0hc-BurpSuiteCommunity.desktop
+x-scheme-handler/mailto=brave-browser.desktop
+application/x-rdp=wlfreerdp.desktop

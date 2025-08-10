@@ -1,0 +1,7 @@
+
+[Unit]
+Description=Battery Low Notification
+
+[Service]
+ExecStart=/home/dama/.config/scripts/battery_notify.sh
+
